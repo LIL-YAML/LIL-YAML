@@ -17,11 +17,11 @@ Here are some ideas to get you started:
   
 <div href="https://github.com/LIL-YAML" align="center"> <img  src='https://img.shields.io/badge/dynamic/json?color=4657b7&label=GitHub&prefix=%20&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DLIL-YAML' />
 
----
+
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/LIL-YAML/LIL-YAML/assets/github-contribution-grid-snake.svg" ></div>
+
   
----
 ## 📺Social
 
 <!--
@@ -47,4 +47,5 @@ Here are some ideas to get you started:
         </tr>
 </tbody>
 </table>
+
 -->
