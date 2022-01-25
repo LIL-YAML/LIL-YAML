@@ -20,3 +20,31 @@ Here are some ideas to get you started:
 ---
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/LIL-YAML/LIL-YAML/assets/github-contribution-grid-snake.svg" ></div>
+  
+---
+## 📺Social
+
+<!--
+<table>
+<tbody>
+   <tr>
+       <td  valign="top" width="50%">
+
+### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
+
+<!-- START_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
+</td>
+       <td  valign="top" width="50%">
+
+### 🎥 <a href="jikelmjjp" target="_blank">Douban</a>
+
+<!-- START_SECTION:douban -->
+
+<!-- END_SECTION:douban -->
+</td>
+        </tr>
+</tbody>
+</table>
+-->
